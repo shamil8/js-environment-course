@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/shamil8/js-environment-course/issues"
   },
-  "homepage": "https://github.com/shamil8/js-environment-course#readme"
+  "homepage": "https://github.com/shamil8/js-environment-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {
+    "jest": "^26.2.0"
+  }
 }
